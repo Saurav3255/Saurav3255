@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **network security**
 
-- 🌱 I’m currently learning **mango could**
+- 🌱 I’m currently learning **mongodb could**
 
 - 📫 How to reach me **jhasaurav057@gamil.com**
 
