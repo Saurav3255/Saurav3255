@@ -1,19 +1,3 @@
-## Hi there 👋
-
-<!--
-**Saurav3255/Saurav3255** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
 <h1 align="center">Hi 👋, I'm saurav jha</h1>
 <h3 align="center">A passionate frontend developer and Software engineer from India.</h3>
 
@@ -23,7 +7,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on **network security**
 
-- 🌱 I’m currently learning **mongodb could**
+- 🌱 I’m currently learning **mango could**
 
 - 📫 How to reach me **jhasaurav057@gamil.com**
 
